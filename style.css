@@ -1,0 +1,26 @@
+body{
+    background-color: crimson;
+    color:bisque;
+    text-align:center;
+}
+
+
+
+.test{
+    border-color: black;
+    margin-top:580px;
+    border-style: dotted;
+    
+}
+button{
+    background: url(imgs/button_left.png) no-repeat;
+    background-color: rebeccapurple;
+}
+
+label{
+    margin:80px;
+}
+.flex-parent {
+    color: white;
+    text-align: center;
+  }
